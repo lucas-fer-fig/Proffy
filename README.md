@@ -3,8 +3,12 @@
 </h1>
 
 <h3 align="center">
-  <strong>🚧 &nbsp; Next Level Week #2 &nbsp; 🚀 &nbsp; Under construction... &nbsp; 🚧</strong>  
+  A simple solution to improve the connection between teachers and students
 </h3>
+
+<h4 align="center">
+  <strong>🚧 &nbsp; Next Level Week #2 &nbsp; 🚀 &nbsp; Under construction... &nbsp; 🚧</strong>  
+</h4>
 
 <br>
 
