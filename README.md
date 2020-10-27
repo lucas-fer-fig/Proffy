@@ -6,6 +6,8 @@
   A simple solution to improve the connection between teachers and students
 </h3>
 
+![Badge](https://img.shields.io/github/license/lucas-fer-fig/Proffy?color=%238257e5&style=plastic)
+
 <h4 align="center">
   <strong>🚧 &nbsp; Next Level Week #2 &nbsp; 🚀 &nbsp; Under construction... &nbsp; 🚧</strong>  
 </h4>
