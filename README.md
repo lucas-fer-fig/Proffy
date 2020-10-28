@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lucas-fer-fig/Proffy?color=%238257e5&logo=github&style=plastic">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucas-fer-fig/Proffy?color=%238257e5">
-  <img src="https://img.shields.io/github/license/lucas-fer-fig/Proffy?color=%238257e5&style=plastic" />
+  <img alt="GitHub" src="https://img.shields.io/github/license/lucas-fer-fig/Proffy?color=%238257e5">
   <img src="https://img.shields.io/github/repo-size/lucas-fer-fig/Proffy?color=%238257e5" />
 </p>
 
